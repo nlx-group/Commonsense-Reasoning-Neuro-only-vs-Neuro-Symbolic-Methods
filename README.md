@@ -31,4 +31,9 @@ Each models folder (`RoBERTa/`, `GPT-2/`, `T5/` and `BART_AND_COMET/`) contains 
 
 ## Citation
 
-Bibtex citation will be provided as soon as proceedings are published.
+```
+@article{branco2021commonsense,
+  title={Commonsense Reasoning: how do Neuro-Symbolic and Neuro-only approaches compare?},
+  author={Branco, Ruben and Branco, Ant{\'o}nio and Silva, Jo{\~a}o and Rodrigues, Jo{\~a}o},
+  year={2021}
+}
